@@ -104,7 +104,7 @@ class LicensePlateRecognition:
 # Only run if this file is executed directly
 if __name__ == "__main__":
     model_path = "model/yolov11_model_state_dict.pkl"  # Update this path
-    folder_path = "images"  # Update this path
+    folder_path = "image"  # Update this path
 
     plate_recognition = LicensePlateRecognition(model_path)
     plate_recognition.process_folder(folder_path)

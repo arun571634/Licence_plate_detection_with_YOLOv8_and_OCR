@@ -1,1 +1,1 @@
-# Licence_plate_detection_with_YOLOv8_and_OCR
+# Licence_plate_detection_with_YOLOv11_and_OCR

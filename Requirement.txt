@@ -16,12 +16,12 @@ ultralytics – YOLO model handling
 
 easyocr – Optical Character Recognition (OCR)
 
-django – Web framework
-
-pillow – Image handling in Django
-
 🔹 Optional Libraries:
                                  
 moviepy – Video processing
 
 djangorestframework – API support for Django (if needed)
+
+django – Web framework
+
+pillow – Image handling in Django

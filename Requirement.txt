@@ -1,0 +1,27 @@
+🔹 Essential Libraries:
+
+numpy – Numerical operations
+
+opencv-python – Image processing
+
+matplotlib – Visualizing results
+
+torch – Deep learning framework (for YOLO)
+
+torchvision – Computer vision models and utilities
+
+torchaudio – Audio processing (comes with PyTorch)
+
+ultralytics – YOLO model handling
+
+easyocr – Optical Character Recognition (OCR)
+
+django – Web framework
+
+pillow – Image handling in Django
+
+🔹 Optional Libraries:
+                                 
+moviepy – Video processing
+
+djangorestframework – API support for Django (if needed)
